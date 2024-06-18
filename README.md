@@ -3,7 +3,7 @@
 
 # About Me
 - 😃 Talented cloud engineer, lifelong learner
-- 🧑‍💻 Currently working in Mitek Systems as a Principal Cloud Engineer
+- 🧑‍💻 Currently working in Revolut as Senior DevOps Engineer
 
 
 # Tech Stack
